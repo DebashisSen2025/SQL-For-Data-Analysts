@@ -1,5 +1,9 @@
 # 🚀 SQL for Data Analysts (Beginner → Advanced)
 
+![SQL](https://img.shields.io/badge/SQL-Learning-blue)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 Learn SQL the practical way with real-world datasets, business problems & interview questions.
 
 ---
@@ -75,15 +79,16 @@ SQL-For-Data-Analysts/
 ## ⭐ Support
 
 If this helps you:
+
 👉 Give a ⭐  
-👉 Follow me  
+👉 Follow me for more Data Analytics content  
 
 ---
 
 ## 🌐 Connect
 
-LinkedIn: https://linkedin.com/in/debashis-sen25  
-Email: sen.debashis.sd@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/debashis-sen25  
+📧 Email: sen.debashis.sd@gmail.com  
 
 ---
 
